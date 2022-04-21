@@ -1,0 +1,11 @@
+{
+    "chainName": "ethereum",
+    "chainId": "1337",
+    "name":"Wrapped Ether",
+    "symbol":"WETH",
+    "decimals":18,
+    "nativeCoin":true,
+    "tokenType": 1,
+    "desc":"",
+    "reward": 0
+}

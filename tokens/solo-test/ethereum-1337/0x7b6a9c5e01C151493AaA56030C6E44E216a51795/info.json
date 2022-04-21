@@ -1,0 +1,11 @@
+{
+    "chainName": "ethereum",
+    "chainId": "1337",
+    "name":"VeChain Bridge Wrapped VET",
+    "symbol":"WVET",
+    "decimals":18,
+    "nativeCoin":false,
+    "tokenType": 2,
+    "desc":"",
+    "reward": 0
+}

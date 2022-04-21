@@ -1,0 +1,11 @@
+{
+    "chainName": "vechain",
+    "chainId": "0xf6",
+    "name":"VET",
+    "symbol":"VET",
+    "decimals":18,
+    "nativeCoin":true,
+    "tokenType": 1,
+    "desc":"",
+    "reward": 0
+}
