@@ -1,0 +1,56 @@
+{
+    "pair":[
+        [
+            {
+                "chainName": "vechain",
+                "chainId": "0xf6",
+                "name":"VET",
+                "symbol":"VET",
+                "decimals":18,
+                "nativeCoin":true,
+                "tokenType": 1,
+                "desc":"",
+                "reward": 0,
+                "token":"VET"
+            },
+            {
+                "chainName": "ethereum",
+                "chainId": "1337",
+                "name":"VeChain Bridge Wrapped VET",
+                "symbol":"WVET",
+                "decimals":18,
+                "nativeCoin":false,
+                "tokenType": 2,
+                "desc":"",
+                "reward": 0,
+                "token":"0x7b6a9c5e01C151493AaA56030C6E44E216a51795"
+            }
+        ],
+        [
+            {
+                "chainName": "vechain",
+                "chainId": "0xf6",
+                "name":"VET",
+                "symbol":"VET",
+                "decimals":18,
+                "nativeCoin":true,
+                "tokenType": 1,
+                "desc":"",
+                "reward": 0,
+                "token":"0xd8a1a415109b6526caaa71bad8b3b2a9471cea83"
+            },
+            {
+                "chainName": "ethereum",
+                "chainId": "1337",
+                "name":"Ether",
+                "symbol":"ETH",
+                "decimals":18,
+                "nativeCoin":true,
+                "tokenType": 1,
+                "desc":"",
+                "reward": 0,
+                "token":"eth"
+            }
+        ]
+    ]
+}
